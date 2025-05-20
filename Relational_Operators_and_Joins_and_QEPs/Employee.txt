@@ -1,0 +1,9 @@
+EmpId, Name, Age, Salary, DeptID
+1, Nick, 25, 2, 1
+2, Sam, 26, 3, 3
+3, Sarah, 35, 1200, 3
+4, Jacob, 36, 3, 4
+5, Annie, 85, 30000, 4
+6, John, 40, 15000, 5
+7, Josef, 32, 7000, 1
+8, Mary, 31, 900, 1
